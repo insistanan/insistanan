@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insistanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://raw.githubusercontent.com/insistanan/insistanan/output/github-stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insistanan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://raw.githubusercontent.com/insistanan/insistanan/output/top-langs.svg)
 
 </div>
 
@@ -23,15 +23,3 @@
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/insistanan/insistanan/output/github-snake.svg?v=2)
-
----
-
-### About Me
-
-<!-- 在这里写你的自我介绍 -->
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
