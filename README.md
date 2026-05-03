@@ -2,7 +2,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/insistanan/insistanan/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/insistanan/insistanan/output/github-snake.svg?v=2)
 
 ---
 
